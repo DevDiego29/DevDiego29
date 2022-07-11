@@ -32,3 +32,5 @@
   ![Snake animation](https://github.com/DevDiego29/DevDiego29/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevDiego29&repo=DevDiego29&theme=midnight-purple)](https://github.com/DevDiego29/DevDiego29)
