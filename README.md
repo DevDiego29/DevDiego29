@@ -1,7 +1,8 @@
 ### Olá, eu sou Diego Rodrigues 👋
 
-- Sou advogado e Bacharel em Direito;
+- Desenvolvedor Jr. Back-end;
 - Graduando do Curso de Sistemas da Informação (4/8);
+- Sou advogado e Bacharel em Direito;
 
 <div align="center">
   <a href="https://github.com/DevDiego29">
