@@ -1,8 +1,7 @@
 ### Olá, eu sou Diego Rodrigues 👋
 
-- 💼 Desenvolvedor Jr. Back-end;
-- ❤️ Graduando do Curso de Sistemas da Informação (4/8);
-- 📈 Advogado;
+- 💼 Desenvolvedor Back-end JAVA;
+- ❤️ Graduando do Curso de Sistemas da Informação (6/8);
 
 <div align="center">
   <a href="https://github.com/DevDiego29">
@@ -23,12 +22,15 @@
 </div>
 
   ##
+
+  # Conecte-se as minhas redes
   
 <div> 
   
   <a href="https://instagram.com/diego_r.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adv.diego21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tidiegorodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/DevDiego29/)
   
 </div>
 
