@@ -30,8 +30,6 @@
   <a href = "mailto:adv.diego21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tidiegorodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/DevDiego29/DevDiego29/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevDiego29&repo=DevDiego29&theme=blue-green)](https://github.com/DevDiego29/DevDiego29)
