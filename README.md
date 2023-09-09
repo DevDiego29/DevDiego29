@@ -3,6 +3,7 @@
 - 💻 Desenvolvedor Back-end JAVA;
 - ❤️ Graduando do Curso de Sistemas da Informação (6/8);
 - 👨‍🎓 Bacharel em Direito;
+- 😍 Apaixonado por programação, games, séries, filmes, viajar, treino funcional e defesa pessoal;
 
 <div align="center">
   <a href="https://github.com/DevDiego29">
