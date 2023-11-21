@@ -74,9 +74,9 @@
 <a href="https://github.com/DevDiego29">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDiego29&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=DevDiego29&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDiego29&amp;theme=radical">
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDiego29&amp&theme=radical">
 </a>
 </div>
-  
+
 ##
 
